@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-This is dog file
-=======
-this is dog file
->>>>>>> ff484a586fbba8087ea637c711be9a51c5ac8eac
