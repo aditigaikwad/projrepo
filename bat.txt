@@ -1,4 +1,0 @@
-this is bat file
-
-
-this is test file
