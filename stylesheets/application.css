@@ -72,7 +72,7 @@ table {
     -moz-transform: translate3d(0, 50px, 0);
     -ms-transform: translate3d(0, 50px, 0);
     -o-transform: translate3d(0, 50px, 0);
-    transform: translate3d(0, 50px, 0); }
+    transform: translate3d(0, 50px, 
 
   to {
     -webkit-transform: translate3d(0, 0px, 0);
